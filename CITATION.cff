@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Retaining Wall Cost Register (US, 2026)"
+type: dataset
+authors:
+  - name: "RetainingWallGuide"
+    website: "https://retainingwallguide.com"
+version: "2026-10-21"
+date-released: "2026-10-21"
+license: CC-BY-4.0
+url: "https://retainingwallguide.com"
+keywords: ["retaining wall cost", "hardscaping", "construction cost", "price register", "segmental retaining wall"]
+doi: "10.5281/zenodo.23550672"
